@@ -1,0 +1,117 @@
+
+todo:
+beating bowser says POWER STAR! SAVE?
+add radial cam and open camera to levels
+hmc pipe crash
+stars with bparam 3 1
+change l trigger mario and luigi sound for painting swish??
+reimport lava99, add motos
+star get and death in wf painting doesn't match footage
+reimport 2nd wing cap!! find filename
+fix cannon height whomp king
+literal gbj room from out of bounds places? black empty void sign idk
+green demon hit animation
+better obj position in lava cpp!!
+fix sl, use camera object!!-----straight up impossible
+btb like areas from ? painting with magic mirror music??
+scrapped bowser 2 text in sign in peach area???
+peach painting that fades into bowser??
+set up cutscene (mario and luigi loaded at the same time?)
+blaargs don't have any collision or interaction, kinda lame considering the new level with the shell
+copy sun carpet from domain to bowsers castle bc collision is bad
+sign koopa village (kill em all)
+add mirror marios in 666 mario room
+make vanilla locations warp to their respective painting
+fix hmc vanilla
+remake eyerok map
+falling bridge in lll??? it's hardcoded, figure it out-----------------------
+cave dungeon (level idea) uses bowser 3 textures
+add something that blocks dead luigi  box pushable, hide the pipe
+alt destination pipe not worthy?? bloody castle
+fix peachsfloor music!!! re write midi
+hmc signposts
+locate sounds falling bridge wf 
+revert 4 pushy rock blocks in metal cap, watch with quad
+ADD more GOOMBA DISCOLOURING!! but where
+fake core both textureless mario crashes game bparam
+checkerboard in ttc model
+move star from ttc 7 to redcoins new boolevel
+change eel star id (find out/fix hardcoded model pos???)
+move eye to the right slightly in lll and move bridge a bit to the right aswell--------------
+add weird paintings in 2b
+change xdelta areas eye basement and pipe basement
+ADD more BPARAM 3 - 2 FOR GAME CRASH!!!!
+https://www.youtube.com/watch?v=had7VlKux5I&ab_channel=VargskelethorJoel%3AMiniHighlights boo level
+change CCC music
+add more goomba towers and blue goombas
+improve wf b objects
+finish floor 2b like betah styled from sewers???
+remake hmc lake!
+test area signpost??
+less fog in cpp area?
+back of the castle white texture on peach room
+remake eternal fort??
+rotate cannons in wing cap
+more objects like that one bob omb in ccm b (act 1)
+make dead luigi door locked?? blj
+TEXTureless MARIO BEHIND B2 KEY?
+warp pipe to new sewers castle room somewhere???
+"wall kicks wont work" signpost in ccm
+change forest level skybox? 
+place blaargs better
+remake deeper cavern?
+fix rivermt collision
+new song for ccc? delete mlpit music
+import star road death like cpp area!!!!!!!!!!!
+something in bup courtyard
+connection between castle garden and bup courtyard, dokan and pipe
+make door to purple castle bowser 1 required?
+add 2 more doors to balcony?
+chests in waterland
+check text koopa bobriver
+figure out rng in eye basement, remake map fuck xdelta
+BLAARG Bparam big'?????
+add room balcony bigboo?? new ghostlevel
+warp fading in star level area? coins
+change yellow switch text??????
+fix bass note in sad bob?
+more act 1 objects???
+add ground pound in carpet new floor but where
+do magic mirror music
+collision in ? hallway
+add fading warp to the top on the bottom of boo slide
+make an igloo area?
+dkc3 theme for new bbasement??
+vanish cap music louder
+ground pound mario bhv param
+
+
+A FUCKING CUTSCENE?
+mother peng chases mario without doing peng mission?
+add a jumpscare like bup64, rovert said it was based on areas and camera shaking
+inside boat in jrb
+maybe make a better level for kingbobomb fight with a 2nd star
+fire goombas??
+rng snow level??
+add a more VANILLA LOOKING AREA from entering floor 2b from bridge pitch black area
+more rng doors
+2 new wiggler levels?
+new basement entrance from death castle???
+basement rng?
+fix tree particles??
+boo level two sided textures
+music changes on diff loading zone collision?
+dokan as custom object
+checkerboard fade as a custom object?
+remake bobomb tower?
+
+use more of these:
+rng doors and warp holes/fake paintings
+killer 1ups/crash 1ups
+deathtimer
+warp that changes based on star count
+act 1 shenannigans
+displacement aka endless stairs
+spawn object at star count
+despawn object on star count
+remake hazybeta and music

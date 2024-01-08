@@ -1,6 +1,11 @@
 # DISCLAIMER
 None of this has to do with the RealitySoft or Bonmario brands, this is a public archive of the source code of a game called b3313. If you fully acknowledge this, please continue browsing the files.
 
+# A simple message to Spongetoo and Benedani
+nobody takes you seriously, we're all laughing about the whole situation lmfao, b3313 isnt copyrighted either, and if even if it was it would infringe on nintendo's copyrights and patents for the Super Mario brand
+Get gud lmfao
+![PXL_20240108_164020074](https://github.com/Bonmarioinc/b3313-src/assets/108455405/b136c8d3-4de4-4161-b57c-85a2694919bd)
+
 # beeie real
 Directory structure:
 - `Bangers` - music
